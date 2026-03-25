@@ -1,4 +1,4 @@
-# 📋 Análise Ultra Detalhada — Código MIPS Assembly
+# 📋 Análise Detalhada — Código MIPS Assembly
 
 ---
 
