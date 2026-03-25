@@ -1,7 +1,6 @@
 .data
-v: .word 5, -3, 12, 0, -7, 8, -1, 4   # vetor com 8 elementos
+v: .word 5, -3, 1, 0, -7, 8, -1, 4   # vetor com 8 elementos
 
-# Strings para exibição
 msg_soma:   .asciiz "Soma dos positivos: "
 msg_neg:    .asciiz "Quantidade de negativos: "
 msg_maior:  .asciiz "Soma > 20? (1=sim, 0=nao): "
